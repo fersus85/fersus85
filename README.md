@@ -9,7 +9,8 @@
 
 ### About
 
-Worked as a store manager for 10 years. To automate tasks, I became interested in programming for reports. By this time, I already knew English quite well, which was a good start. I chose the path of self-study, without resorting to paid courses. Since then, I have come a long way and go further towards my goal. Сurrently looking for a project to work on. Always open to new acquaintances and proposals.
+I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode. I lead projects in Trello,  familiar with the SCRUM methodology.
+Hobbies - reading books on programming and running.. Always open to new acquaintances and proposals.
 > If you don't like where you are, change it. You're not a tree. - Jim Rohn
 
 ### My technology   <img src="https://img.shields.io/badge/stack-black?style=for-the-badge&logo=Stack Overflow&logoColor=red"/> :
