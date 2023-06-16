@@ -1,6 +1,6 @@
 ## Deriabin Evgeniy 👋
 
-### I'm a Junior Python Developer
+### I'm a Python Developer
 - 🦾 I like to write code
 - 🏃‍♂️ I love running and traveling
 - 📙 I'm constantly learning new things and technologies
