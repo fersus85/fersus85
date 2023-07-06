@@ -15,7 +15,11 @@ Hobbies - reading books on programming and running.. Always open to new acquaint
 
 ### My technology   <img src="https://img.shields.io/badge/stack-black?style=for-the-badge&logo=Stack Overflow&logoColor=red"/> :
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=Red"/> <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=Red"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=Red"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=Red"/> <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU Bash&logoColor=Red"/> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=Red"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=Red"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=Red"/>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=Red"/> 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
+<img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=Red"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=Red"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=Red"/> <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU Bash&logoColor=Red"/> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=Red"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=Red"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=Red"/>
 
 ### How to reach me 📫 :
 
