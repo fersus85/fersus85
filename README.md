@@ -15,11 +15,16 @@ Hobbies - reading books on programming and running.. Always open to new acquaint
 
 ### My technology   <img src="https://img.shields.io/badge/stack-black?style=for-the-badge&logo=Stack Overflow&logoColor=red"/> :
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=Red"/> 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=Red"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=Red"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=Red"/> <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU Bash&logoColor=Red"/> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=Red"/> <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=Red"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=Red"/>
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### How to reach me 📫 :
 
