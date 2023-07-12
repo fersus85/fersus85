@@ -1,7 +1,8 @@
 ## Deriabin Evgeniy 👋
 
 ### I'm a Python Developer
-<img style="display: block; margin-left: auto; margin-right: auto; width:35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fersus85&hide=css,javascript&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=solarized_dark)
 
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
