@@ -1,13 +1,14 @@
 ## Deriabin Evgeniy 👋
 
 ### I'm a Python Developer
-- 🦾 I like to write code
+<img style="display: block; margin-left: auto; margin-right: auto; width:35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fersus85&hide=css,javascript&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+
+- 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
 - 📙 I'm constantly learning new things and technologies
 - ✍🏽 PyCharm - one love
 - 👨‍💻 My motto is work hard
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersus85)](https://github.com/fersus85/github-readme-stats)
 ### About
 
 I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode. I lead projects in Trello,  familiar with the SCRUM methodology.
@@ -34,6 +35,8 @@ Hobbies - reading books on programming and running.. Always open to new acquaint
 <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=Red"/> @Fersus2443
 
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=Red"/>  aki Fersus
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fersus85&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **fersus85/fersus85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
