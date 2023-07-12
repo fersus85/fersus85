@@ -7,7 +7,7 @@
 - ✍🏽 PyCharm - one love
 - 👨‍💻 My motto is work hard
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersus85)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fersus85)](https://github.com/fersus85/github-readme-stats)
 ### About
 
 I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode. I lead projects in Trello,  familiar with the SCRUM methodology.
