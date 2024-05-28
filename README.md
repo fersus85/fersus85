@@ -2,7 +2,7 @@
 
 ### I'm a Python Developer
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={fersus85}&theme={nord_dark}&exclude={exclude}
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=github_dark)
 
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
