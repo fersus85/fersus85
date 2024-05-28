@@ -2,7 +2,7 @@
 
 ### I'm a Python Developer
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=solarized_dark)
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={fersus85}&theme={nord_dark}&exclude={exclude}
 
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
@@ -11,7 +11,7 @@
 
 ### About
 
-I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode. I lead projects in Trello,  familiar with the SCRUM methodology.
+I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode.
 Hobbies - reading books on programming and running.. Always open to new acquaintances and proposals.
 > If you don't like where you are, change it. You're not a tree. - Jim Rohn
 
