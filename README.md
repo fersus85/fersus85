@@ -7,7 +7,6 @@
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
 - 📙 I'm constantly learning new things and technologies
-- ✍🏽 PyCharm - one love
 - 👨‍💻 My motto is work hard
 
 ### About
