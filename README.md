@@ -2,15 +2,14 @@
 
 ### I'm a Python Developer
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=github_dark)
-
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
 
 ### About
 
 Python-разработчик с опытом 2+ года.
-
+Специализация - backend. Люблю решать большие и сложные задачи.
+Главное качетсво - настойчивость в поисках решения.
 
 ### My technology   <img src="https://img.shields.io/badge/stack-black?style=for-the-badge&logo=Stack Overflow&logoColor=red"/> :
 
@@ -23,16 +22,19 @@ Python-разработчик с опытом 2+ года.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### How to reach me 📫 :
+<a href="https://www.linkedin.com/in/evgeniy-deriabin" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
 
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=Red"/> deriabin1985@gmail.com
+<a href="https://t.me/Deriabin_85" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/2a0ddc97d7e52c2eef90147734437b674175e5921745634dfb74585461a6cd0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+  </a>
 
-<img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=Red"/> @Fersus2443
+### Stats
 
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=Red"/>  aki Fersus
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=github_dark)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fersus85&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
