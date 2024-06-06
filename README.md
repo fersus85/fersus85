@@ -6,14 +6,11 @@
 
 - 🦾 I like to write code  
 - 🏃‍♂️ I love running and traveling
-- 📙 I'm constantly learning new things and technologies
-- 👨‍💻 My motto is work hard
 
 ### About
 
-I strive for constant development, like to study new technologies. I read Habr and StackOverflow,  solve problems on Leetcode.
-Hobbies - reading books on programming and running.. Always open to new acquaintances and proposals.
-> If you don't like where you are, change it. You're not a tree. - Jim Rohn
+Python-разработчик с опытом 2+ года.
+
 
 ### My technology   <img src="https://img.shields.io/badge/stack-black?style=for-the-badge&logo=Stack Overflow&logoColor=red"/> :
 
