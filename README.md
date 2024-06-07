@@ -2,8 +2,8 @@
 
 ### I'm a Python Developer
 
-- 🦾 I like to write code  
-- 🏃‍♂️ I love running and traveling
+- 🦾 I love to write code  
+- 🏃‍♂️ I like running and traveling
 
 ### About
 
