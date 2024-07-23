@@ -35,7 +35,7 @@ Python-разработчик с опытом 2+ года.
 ### Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=github_dark)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fersus85&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fersus85)
 
 <!--
 **fersus85/fersus85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
