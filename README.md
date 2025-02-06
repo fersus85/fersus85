@@ -25,11 +25,11 @@ Python-разработчик с опытом 2+ года.
 
 ### How to reach me 📫 :
 <a href="https://www.linkedin.com/in/evgeniy-deriabin" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="200" height="50"">
   </a>
 
 <a href="https://t.me/Deriabin_85" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/2a0ddc97d7e52c2eef90147734437b674175e5921745634dfb74585461a6cd0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="80" height="50">
   </a>
 
 ### Stats
