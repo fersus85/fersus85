@@ -29,16 +29,17 @@ Python-разработчик с опытом 2+ года.
 
 ## How to reach me 📫 :
 <a href="https://www.linkedin.com/in/evgeniy-deriabin" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30"">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30">
+</a>
+
 <a href="https://t.me/Deriabin_85" rel="nofollow">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="60" height="30">
-  </a>
+</a>
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fersus85&theme=highcontrast)](https://git.io/streak-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/fersus85)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fersus85&theme=github_dark)
+- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fersus85&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fersus85&theme=github&utcOffset=8)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=fersus85)](https://git.io/streak-stats)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/fersus85?theme=light&font=Noto%20Sans%20Elbasan)
 
 <!--
 **fersus85/fersus85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
