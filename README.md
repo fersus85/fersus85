@@ -37,9 +37,13 @@ Python-разработчик с опытом 2+ года.
 </a>
 
 ## Stats
-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fersus85&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fersus85&theme=github&utcOffset=8)
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=fersus85)](https://git.io/streak-stats)
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/fersus85?theme=light&font=Noto%20Sans%20Elbasan)
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=fersus85" width="500" height="200" alt="GitHub Streak">
+</a>
+<a href="https://leetcode.com/fersus85">
+    <img src="https://leetcard.jacoblin.cool/fersus85?theme=light&font=Noto%20Sans%20Elbasan" width="500" height="200" alt="LeetCode Stats">
+</a>
+
 
 <!--
 **fersus85/fersus85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
