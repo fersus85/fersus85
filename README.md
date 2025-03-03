@@ -37,9 +37,6 @@ Python-разработчик с опытом 2+ года.
 </a>
 
 ## Stats
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=fersus85" width="500" height="200" alt="GitHub Streak">
-</a>
 <a href="https://leetcode.com/fersus85">
     <img src="https://leetcard.jacoblin.cool/fersus85?theme=light&font=Noto%20Sans%20Elbasan" width="500" height="200" alt="LeetCode Stats">
 </a>
